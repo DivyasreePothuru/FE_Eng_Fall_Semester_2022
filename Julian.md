@@ -17,7 +17,7 @@ Below you will find a list with the project names and links for their location o
 | [Travel Agency](https://github.com/JulianGerometta/Project-Code-Travel-Agency)    |
 | [Todo](https://github.com/JulianGerometta/Todo-App)             |
 | [Tribute Page]     |
-| [Grid Cards]      |
+| [Grid Cards](https://github.com/JulianGerometta/Grid-Cards-Project)      |
 | [Flex Grid](https://github.com/JulianGerometta/Project-code-Flex-with-frontend-mentro-)       |
 | [Restaurant](https://github.com/JulianGerometta/Project-Code-Restaurant)       |
 | [School Project](https://github.com/JulianGerometta/Project-Code-School-website-)   |  

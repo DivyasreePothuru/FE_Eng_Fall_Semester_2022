@@ -14,9 +14,9 @@ This is my first project.
 ### Technologies used
 - HTML
 
-#### Source Code :  https://github.com/DivyasreePothuru/travel
+#### Source Code :  https://github.com/shbnmplhvr/grid-project
 
-#### Live Preview :  https://divyatravels.netlify.app
+#### Live Preview :  https://shabnamgridproject.netlify.app/
 
 
  Screenshot:
