@@ -28,7 +28,7 @@ It is the second project.
 > Description:
 In this project i have worked with Grid.
 
-It is my first aplication.
+
 
 > Tech:
 - HTML
