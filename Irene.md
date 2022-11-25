@@ -24,6 +24,7 @@ It is the second project.
 #### Live preview: https://cookbookirene.netlify.app
 
 
+
 ## Grid Card:
 > Description:
 In this project i have worked with Grid.
@@ -36,3 +37,16 @@ In this project i have worked with Grid.
 
 #### Sourse code: link https://github.com/IreneOrtizTena/testimonials-grid-section-project
 #### Live preview: link https://gridcard-testimonials.netlify.app/
+
+
+## School Project radius:
+> Description:
+The initial projects with raidus in HTML.
+
+
+
+> Tech:
+- HTML
+
+#### Sourse code: link https://github.com/IreneOrtizTena/school-project-radius
+#### Live preview: link https://app.netlify.com/sites/school-project-radius/settings/domain
