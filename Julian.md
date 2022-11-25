@@ -4,11 +4,12 @@
 
 Below you will find a list with the project names and links for their location on Github and their live server preview.
 
-The following projects where done utilizing:
 
-- Html
-- CSS
-- JavaScript (future projects)
+> Tech:
+
+> - Html
+> - CSS
+
 
 | PROJECT NAME     |  PREVIEW LINK |
 | ------------     |  ------------ |
