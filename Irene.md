@@ -13,7 +13,8 @@ It is my first aplication.
 
 
 ## Cook-Book:
-> Description:
+> Description: 
+It is the second project.
 
 > Tech:
 - HTML
@@ -21,3 +22,17 @@ It is my first aplication.
 
 #### Sourse code: https://github.com/IreneOrtizTena/CookBook-Project-Flex
 #### Live preview: https://cookbookirene.netlify.app
+
+
+## Grid Card:
+> Description:
+In this project i have worked with Grid.
+
+It is my first aplication.
+
+> Tech:
+- HTML
+- CSS
+
+#### Sourse code: link https://github.com/IreneOrtizTena/testimonials-grid-section-project
+#### Live preview: link https://gridcard-testimonials.netlify.app/
