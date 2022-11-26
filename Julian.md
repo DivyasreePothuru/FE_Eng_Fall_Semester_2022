@@ -24,6 +24,6 @@ Below you will find a list with the project names and links for their location o
 | [Places](https://github.com/JulianGerometta/Project-Code-Places-)           |
 | [Cookbook](https://github.com/JulianGerometta/Project-Code-Cookbook-v1-)         |
 | [Insurance](https://github.com/JulianGerometta/Project-Code-Insurance)        |
-| [Clipboard]        |
+| [Clipboard](https://github.com/JulianGerometta/Clipboard-Project)        |
 
 
