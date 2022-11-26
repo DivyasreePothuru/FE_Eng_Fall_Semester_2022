@@ -11,12 +11,12 @@ Below you will find a list with the project names and links for their location o
 > - CSS
 
 
-| PROJECT NAME     |  PREVIEW LINK |
+| PROJECT NAME     |  PREVIEW LINK FROM NETLIFY|
 | ------------     |  ------------ |
 | [Personal Webpage] |
 | [Travel Agency](https://github.com/JulianGerometta/Project-Code-Travel-Agency)    |
 | [Todo](https://github.com/JulianGerometta/Todo-App)             |
-| [Tribute Page]     |
+| [Tribute Page](https://github.com/JulianGerometta/Tribute-Page-Project)     |
 | [Grid Cards](https://github.com/JulianGerometta/Grid-Cards-Project)      |
 | [Flex Grid](https://github.com/JulianGerometta/Project-code-Flex-with-frontend-mentro-)       |
 | [Restaurant](https://github.com/JulianGerometta/Project-Code-Restaurant)       |
@@ -24,6 +24,6 @@ Below you will find a list with the project names and links for their location o
 | [Places](https://github.com/JulianGerometta/Project-Code-Places-)           |
 | [Cookbook](https://github.com/JulianGerometta/Project-Code-Cookbook-v1-)         |
 | [Insurance](https://github.com/JulianGerometta/Project-Code-Insurance)        |
-| [Clipboard](https://github.com/JulianGerometta/Clipboard-Project)        |
+| [Clipboard](https://github.com/JulianGerometta/Clipboard-Project)         |    [Clipboard](https://frontend-course-project-clipboard.netlify.app/)
 
 
