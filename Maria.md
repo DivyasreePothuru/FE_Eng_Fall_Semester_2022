@@ -2,7 +2,7 @@
 
 ## Todo App:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -14,7 +14,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## CookBook:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -25,7 +25,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Grid-testimonial:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -37,7 +37,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Tribute Page:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -48,7 +48,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Restaurant Website:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -59,7 +59,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Recipes Website:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -68,3 +68,12 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 #### Source code: link https://github.com/aria-2022/recipes-website.git
 #### Live preview: link https://recipes-website-aria.netlify.app/
 
+## School Project:
+> Description:
+Instructor required to finish 12 projects untill Monday 28/11/2022.
+
+> Tech:
+- HTML
+
+#### Source code: link https://github.com/aria-2022/school-project.git
+#### Live preview: link https://schhool-project-aria.netlify.app/
