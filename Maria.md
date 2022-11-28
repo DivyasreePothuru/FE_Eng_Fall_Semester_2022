@@ -83,3 +83,69 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 #### Source code: link https://github.com/aria-2022/Project-base-apparel.git
 #### Live preview: link https://base-apparel-aria.netlify.app/
 
+
+## Travel Agency:
+> Description:
+Instructor required to finish 12 projects untill Monday 29/11/2022.
+
+> Tech:
+- HTML
+- CSS
+
+#### Source code: link https://github.com/aria-2022/travel-agency-aria.git
+#### Live preview: link https://travel-agency-aria.netlify.app/
+
+## School Project:
+> Description:
+Instructor required to finish 12 projects untill Monday 29/11/2022.
+
+> Tech:
+- HTML
+- CSS
+
+#### Source code: link https://github.com/aria-2022/school-project.git
+#### Live preview: link https://schhool-project-aria.netlify.app/
+
+## Places:
+> Description:
+Instructor required to finish 12 projects untill Monday 29/11/2022.
+
+> Tech:
+- HTML
+- CSS
+
+#### Source code: link https://github.com/aria-2022/Places.git
+#### Live preview: link https://places-aria.netlify.app/
+
+## German Podcast:
+> Description:
+Instructor required to finish 12 projects untill Monday 29/11/2022.
+
+> Tech:
+- HTML
+- CSS
+
+#### Source code: link https://github.com/aria-2022/German_Podcasts.git
+#### Live preview: link https://germanpodcasts.netlify.app/
+
+## Clipboard:
+> Description:
+Instructor required to finish 12 projects untill Monday 29/11/2022.
+
+> Tech:
+- HTML
+- CSS
+
+#### Source code: link https://github.com/aria-2022/Project-Clipboard.git
+#### Live preview: link https://clipboard-aria.netlify.app/
+
+## Website Portfolio:
+> Description:
+Instructor required to finish 12 projects untill Monday 29/11/2022.
+
+> Tech:
+- HTML
+- CSS
+
+#### Source code: link https://github.com/aria-2022/simple-website-portfolio.git
+#### Live preview: link https://website-portfolio-maria.netlify.app/
