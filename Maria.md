@@ -2,7 +2,7 @@
 
 ## Todo App:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -14,7 +14,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## CookBook:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -26,7 +26,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Grid-testimonial:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -38,7 +38,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Tribute Page:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -50,7 +50,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Restaurant Website:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -62,7 +62,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Recipes Website:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -74,7 +74,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Base apparel:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -86,7 +86,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Travel Agency:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -97,7 +97,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## School Project:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -108,7 +108,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Places:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -119,7 +119,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## German Podcast:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -130,7 +130,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Clipboard:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
@@ -141,7 +141,7 @@ Instructor required to finish 12 projects untill Monday 29/11/2022.
 
 ## Website Portfolio:
 > Description:
-Instructor required to finish 12 projects untill Monday 29/11/2022.
+Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 > Tech:
 - HTML
