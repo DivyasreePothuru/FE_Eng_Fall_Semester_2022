@@ -15,6 +15,7 @@ In this file you can find my projects I have done  using HTML,CSS,JS and React
 ### Technologies used
 - HTML
 
+<<<<<<< HEAD
 #### Source Code :  https://github.com/DivyasreePothuru/Cookbook1
 
 ### Host :  [CookBook](https://divcookbook.netlify.app)
@@ -70,8 +71,14 @@ In this file you can find my projects I have done  using HTML,CSS,JS and React
 #### Source Code :  https://github.com/DivyasreePothuru/travel
 
 ### Host :  [Travel](https://divyatravels.netlify.app)
+=======
+#### Source Code :  https://github.com/shbnmplhvr/grid-project
+
+#### Live Preview :  https://shabnamgridproject.netlify.app/
+
+
+ Screenshot:
+>>>>>>> 76176f7fb24f2b145c519b077e1ea3a7e774715b
 
 
 
-### Preview :
- ![Screenshot 2022-10-31 105155](https://user-images.githubusercontent.com/116878123/198981975-75bdf19a-f55f-4de5-a5d4-6be6179c7faf.png)
