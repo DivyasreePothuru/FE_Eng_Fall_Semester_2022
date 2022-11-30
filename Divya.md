@@ -71,14 +71,7 @@ In this file you can find my projects I have done  using HTML,CSS,JS and React
 #### Source Code :  https://github.com/DivyasreePothuru/travel
 
 ### Host :  [Travel](https://divyatravels.netlify.app)
-=======
-#### Source Code :  https://github.com/shbnmplhvr/grid-project
 
-#### Live Preview :  https://shabnamgridproject.netlify.app/
-
-
- Screenshot:
->>>>>>> 76176f7fb24f2b145c519b077e1ea3a7e774715b
 
 
 
