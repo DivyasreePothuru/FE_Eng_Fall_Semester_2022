@@ -13,7 +13,7 @@ Below you will find a list with the project names and links for their location o
 
 | PROJECT NAME     |  PREVIEW LINK FROM NETLIFY|
 | ------------     |  ------------ |
-| [Personal Webpage] |
+| [Personal Webpage](https://github.com/JulianGerometta/Personal-CV-project) |
 | [Travel Agency](https://github.com/JulianGerometta/Project-Code-Travel-Agency)    |
 | [Todo](https://github.com/JulianGerometta/Todo-App)             |
 | [Tribute Page](https://github.com/JulianGerometta/Tribute-Page-Project)     |
