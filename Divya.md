@@ -72,6 +72,45 @@ In this file you can find my projects I have done  using HTML,CSS,JS and React
 
 ### Host :  [Travel](https://divyatravels.netlify.app)
 
+## Project Name : Tribute Page
 
+>Description :
 
+- This is my fifth project.
+- This was created after we learnt div's. We have created a webpage for our inspired person using div's
 
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code : https://github.com/DivyasreePothuru/Tribute-page
+
+### Host : [TribbutePage](https://divtributepage.netlify.app)
+
+## Project Name : Kochblog
+
+>Description :
+
+- This project was developed based on front-end mentor challenge
+- At this stage we learnt how to make pages responsive 
+
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code : https://github.com/DivyasreePothuru/Kochblog
+
+### Host :  [Kochblog](https://divcookblog.netlify.app)
+
+## Project Name : Places
+
+>Description :
+
+- - This project was developed based on front-end mentor challenge
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code :  https://github.com/DivyasreePothuru/Places
+
+### Host :  [Travel](https://divplaces.netlify.app)
