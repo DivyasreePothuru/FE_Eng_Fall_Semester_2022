@@ -41,7 +41,7 @@
 
 #### Source code: link https://github.com/IreneOrtizTena/todo
 
-#### Live preview: link https://superlative-marshmallow-6af4e1.netlify.app/
+#### Live preview: link https://todo-html-css.netlify.app/
 
 
 ## Cook-Book:
