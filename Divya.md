@@ -106,11 +106,38 @@ In this file you can find my projects I have done  using HTML,CSS,JS and React
 
 >Description :
 
-- - This project was developed based on front-end mentor challenge
+-  This project was developed based on front-end mentor challenge
 ### Technologies used
 - HTML
 - CSS
 
 #### Source Code :  https://github.com/DivyasreePothuru/Places
 
-### Host :  [Travel](https://divplaces.netlify.app)
+### Host :  [Places](https://divplaces.netlify.app)
+
+## Project Name : base Apparel
+
+>Description :
+
+-  This project was developed based on front-end mentor challenge
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code :  https://github.com/DivyasreePothuru/Apparel
+
+### Host :  [BA](https://divbaseapparel.netlify.app)
+
+
+## Project Name : Grid-project
+
+>Description :
+
+-  This project was developed based on front-end mentor challenge
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code :  https://github.com/DivyasreePothuru/Grid-project
+
+### Host :  [Grid](https://div-grid.netlify.app)
