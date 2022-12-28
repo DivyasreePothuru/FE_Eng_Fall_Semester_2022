@@ -14,6 +14,21 @@
 
 #### Live preview: https://ppage.netlify.app/
 
+## Tribute-Page:
+
+> Description:
+> It is the second basic project with CSS.
+
+> Tech:
+
+- HTML
+- CSS
+
+
+#### Source code: https://github.com/IreneOrtizTena/tribute-page
+
+#### Live preview: https://tribute-page-d.netlify.app/
+
 ## Todo App:
 
 > Description:
@@ -32,7 +47,7 @@
 ## Cook-Book:
 
 > Description:
-> It is the third project.
+> It is the second website.
 
 > Tech:
 
@@ -104,6 +119,6 @@
 - HTML
 - CSS
 
-#### Sourse code: link https://github.com/IreneOrtizTena/travel-agency
+#### Source code: link https://github.com/IreneOrtizTena/travel-agency
 
 #### Live preview: link https://muc-travel-agency.netlify.app/
