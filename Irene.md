@@ -1,30 +1,45 @@
 # Irene Projects Collection:
 
+## Personal-Page:
+
+> Description:
+> It is the first basic project.
+
+> Tech:
+
+- HTML
+
+
+#### Source code: https://github.com/IreneOrtizTena/personal-page.git
+
+#### Live preview: https://ppage.netlify.app/
+
 ## Todo App:
 
 > Description:
-> It is my first aplication.
+> It is my first application.
 
 > Tech:
 
 - HTML
 - CSS
 
-#### Sourse code: link https://github.com/IreneOrtizTena/todo
+#### Source code: link https://github.com/IreneOrtizTena/todo
 
 #### Live preview: link https://superlative-marshmallow-6af4e1.netlify.app/
+
 
 ## Cook-Book:
 
 > Description:
-> It is the second project.
+> It is the third project.
 
 > Tech:
 
 - HTML
 - CSS
 
-#### Sourse code: https://github.com/IreneOrtizTena/CookBook-Project-Flex
+#### Source code: https://github.com/IreneOrtizTena/CookBook-Project-Flex
 
 #### Live preview: https://cookbookirene.netlify.app
 
@@ -38,19 +53,19 @@
 - HTML
 - CSS
 
-#### Sourse code: link https://github.com/IreneOrtizTena/testimonials-grid-section-project
+#### Source code: link https://github.com/IreneOrtizTena/testimonials-grid-section-project
 
 #### Live preview: link https://gridcard-testimonials.netlify.app/
 
 ## School Project radius:
 
-> Description: The initial projects with raidus in HTML.
+> Description: The initial projects with radius in HTML.
 
 > Tech:
 
 - HTML
 
-#### Sourse code: link https://github.com/IreneOrtizTena/school-project-radius
+#### Source code: link https://github.com/IreneOrtizTena/school-project-radius
 
 #### Live preview: link https://school-project-radius.netlify.app/
 
@@ -63,7 +78,7 @@
 - HTML
 - CSS
 
-#### Sourse code: link https://github.com/IreneOrtizTena/restaurant-munich
+#### Source code: link https://github.com/IreneOrtizTena/restaurant-munich
 
 #### Live preview: link https://restaurant-munich.netlify.app/
 
@@ -76,13 +91,13 @@
 - HTML
 - CSS
 
-#### Sourse code: link https://github.com/IreneOrtizTena/Front-End-Project-Base-Apparel
+#### Source code: link https://github.com/IreneOrtizTena/Front-End-Project-Base-Apparel
 
 #### Live preview: link https://base-apparel-flex.netlify.app/
 
 ## Travel-Agency
 
-> Description: 3.proyect.
+> Description: 4.project.
 
 > Tech:
 
