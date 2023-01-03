@@ -15,7 +15,7 @@ In this file you can find my projects I have done  using HTML,CSS,JS and React
 ### Technologies used
 - HTML
 
-<<<<<<< HEAD
+
 #### Source Code :  https://github.com/DivyasreePothuru/Cookbook1
 
 ### Host :  [CookBook](https://divcookbook.netlify.app)
@@ -47,7 +47,7 @@ In this file you can find my projects I have done  using HTML,CSS,JS and React
 
 ### Technologies used
 - HTML
--CSS
+- CSS
 
 #### Source Code :  https://github.com/DivyasreePothuru/Tribute-page
 
@@ -141,3 +141,30 @@ In this file you can find my projects I have done  using HTML,CSS,JS and React
 #### Source Code :  https://github.com/DivyasreePothuru/Grid-project
 
 ### Host :  [Grid](https://div-grid.netlify.app)
+
+
+## Project Name : Clipboard
+
+>Description :
+
+-  This project was developed based on front-end mentor challenge
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code :  https://github.com/DivyasreePothuru/clipboard
+
+### Host :  [Clipboard](https://div-clipboard.netlify.app)
+
+## Project Name : Todo
+
+>Description :
+
+-  This project was developed following tutor's instructions and his work
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code :  https://github.com/DivyasreePothuru/todo
+
+### Host :  [Todo](https://divyatodo.netlify.app)
