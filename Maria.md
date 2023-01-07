@@ -149,3 +149,15 @@ Instructor required to finish 12 projects untill Monday 28/11/2022.
 
 #### Source code: link https://github.com/aria-2022/simple-website-portfolio.git
 #### Live preview: link https://website-portfolio-maria.netlify.app/
+
+## Insure-Landing-Page:
+> Description:
+Completed project
+
+> Tech:
+- HTML
+- CSS
+
+#### Source code: https://github.com/aria-2022/insure-landing-page.git
+#### Live preview: https://insure-landing-page-aria.netlify.app/
+
