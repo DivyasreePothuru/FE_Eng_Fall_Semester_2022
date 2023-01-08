@@ -15,7 +15,7 @@ In this file you can find my projects I have done  using HTML,CSS,JS and React
 ### Technologies used
 - HTML
 
-<<<<<<< HEAD
+
 #### Source Code :  https://github.com/DivyasreePothuru/Cookbook1
 
 ### Host :  [CookBook](https://divcookbook.netlify.app)
@@ -47,7 +47,7 @@ In this file you can find my projects I have done  using HTML,CSS,JS and React
 
 ### Technologies used
 - HTML
--CSS
+- CSS
 
 #### Source Code :  https://github.com/DivyasreePothuru/Tribute-page
 
@@ -72,6 +72,99 @@ In this file you can find my projects I have done  using HTML,CSS,JS and React
 
 ### Host :  [Travel](https://divyatravels.netlify.app)
 
+## Project Name : Tribute Page
+
+>Description :
+
+- This is my fifth project.
+- This was created after we learnt div's. We have created a webpage for our inspired person using div's
+
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code : https://github.com/DivyasreePothuru/Tribute-page
+
+### Host : [TribbutePage](https://divtributepage.netlify.app)
+
+## Project Name : Kochblog
+
+>Description :
+
+- This project was developed based on front-end mentor challenge
+- At this stage we learnt how to make pages responsive 
+
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code : https://github.com/DivyasreePothuru/Kochblog
+
+### Host :  [Kochblog](https://divcookblog.netlify.app)
+
+## Project Name : Places
+
+>Description :
+
+-  This project was developed based on front-end mentor challenge
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code :  https://github.com/DivyasreePothuru/Places
+
+### Host :  [Places](https://divplaces.netlify.app)
+
+## Project Name : base Apparel
+
+>Description :
+
+-  This project was developed based on front-end mentor challenge
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code :  https://github.com/DivyasreePothuru/Apparel
+
+### Host :  [BA](https://divbaseapparel.netlify.app)
 
 
+## Project Name : Grid-project
 
+>Description :
+
+-  This project was developed based on front-end mentor challenge
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code :  https://github.com/DivyasreePothuru/Grid-project
+
+### Host :  [Grid](https://div-grid.netlify.app)
+
+
+## Project Name : Clipboard
+
+>Description :
+
+-  This project was developed based on front-end mentor challenge
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code :  https://github.com/DivyasreePothuru/clipboard
+
+### Host :  [Clipboard](https://div-clipboard.netlify.app)
+
+## Project Name : Todo
+
+>Description :
+
+-  This project was developed following tutor's instructions and his work
+### Technologies used
+- HTML
+- CSS
+
+#### Source Code :  https://github.com/DivyasreePothuru/todo
+
+### Host :  [Todo](https://divyatodo.netlify.app)
